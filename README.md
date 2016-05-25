@@ -49,7 +49,7 @@ Usage in child Dockerfile:
 
 VirtualHost configuration:
 
-  server {
+    server {
       listen 80;
       listen 443 ssl;
 
